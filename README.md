@@ -2,7 +2,7 @@
 
 # Hello 
 
-Hello. I am creator of [Nuita](https://nuita.net/). Nuita is a nice project. I'm glad you like it.
+Hello. I am a creator of [Nuita](https://nuita.net/). Nuita is a nice project. I'm glad you like it.
 
 I have skills described below:
 
