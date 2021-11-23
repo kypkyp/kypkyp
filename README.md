@@ -1,16 +1,13 @@
-### Hi there 👋
+![hello](https://user-images.githubusercontent.com/19870474/142983227-e0df2bbc-3c39-43bd-9ff6-42041c7ec952.png)
 
-<!--
-**kypkyp/kypkyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello 
 
-Here are some ideas to get you started:
+Hello. I am creator of [Nuita](https://nuita.net/). Nuita is a nice project. I'm glad you like it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have skills described below:
+
+- Backend (Ruby, PHP, Go)
+- Infrastructure, Cloud Engineering (AWS(SAA), GCP, Terraform, Docker)
+- Frontend (HTML/CSS, TypeScript)
+
+I'm looking for part-time job in 2022. You can contact me on [email](mailto:kyp@kmc.gr.jp) or [Twitter](https://twitter.com/_kypu_).
