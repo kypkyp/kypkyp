@@ -5,7 +5,7 @@
 
 Hello. I am a software engineer and creator of [Nuita](https://nuita.net/). Nuita is a nice project. I'm glad you like it.
 
-I am looking for a part-time job for 2022. I have skills described below:
+To spend more time on this nice project, I am looking for a part-time job for 2022 instead of current full-time thing. I have skills described below:
 
 - Backend (Ruby, PHP, Go)
 - Infrastructure, Cloud Engineering (AWS(SAA), GCP, Terraform, Docker)
