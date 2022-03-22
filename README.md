@@ -12,7 +12,7 @@
   - Repository https://github.com/kypkyp/server-kun
 - Nasty bout of paid job at EC company as a backend engineer.
 
-## 💡 What I like
+## ❤️ What I like
 
 - Ruby, Ruby on Rails
 - Go
