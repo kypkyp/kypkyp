@@ -10,7 +10,7 @@
   - Repository https://github.com/nuita/panchira
 - server-kun
   - Repository https://github.com/kypkyp/server-kun
-- Nasty bout of paid job at EC company as a backend engineer.
+- Nasty bout of paid job as a backend engineer.
 
 ## ❤️ What I like
 
