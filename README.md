@@ -10,7 +10,7 @@
   - Repository https://github.com/nuita/panchira
 - server-kun
   - Repository https://github.com/kypkyp/server-kun
-- paid job as a backend engineer
+- paid job as a freelance engineer
 
 ## ❤️ What I like
 
