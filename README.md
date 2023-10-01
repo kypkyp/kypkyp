@@ -1,7 +1,7 @@
 🐋🐋🐋🐋🐋🐋🐋🐋 Hello! I am kyp 🐋🐋🐋🐋🐋🐋🐋🐋
 
 ## ✒ Current Occupations
-- creating games at [SAFE HAVN STUDIO](https://savehavn.dev/)
+- creating games at [SAFE HAVN STUDIO](https://safehavn.dev/)
 - paid job as a freelance engineer
 
 ## ⛲ Previous Works
