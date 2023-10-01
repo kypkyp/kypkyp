@@ -1,7 +1,10 @@
 🐋🐋🐋🐋🐋🐋🐋🐋 Hello! I am kyp 🐋🐋🐋🐋🐋🐋🐋🐋
 
-## ⛲ I'm currently working on 
+## ✒ Current Occupations
+- creating games at [SAFE HAVN STUDIO](https://savehavn.dev/)
+- paid job as a freelance engineer
 
+## ⛲ Previous Works
 - Nuita
   - Production website https://nuita.net
   - Github Organizations https://github.com/nuita
@@ -10,12 +13,11 @@
   - Repository https://github.com/nuita/panchira
 - server-kun
   - Repository https://github.com/kypkyp/server-kun
-- paid job as a freelance engineer
 
 ## ❤️ What I like
 
 - Ruby, Ruby on Rails
-- Go
+- Go, Ebitengine
 - PHP
 - Javascript/Typescript
 - AWS (SAA)
